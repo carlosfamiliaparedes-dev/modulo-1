@@ -1,1 +1,22 @@
-
+pwd: muestra la ruta completa del directorio actual
+cd: cambia de directorio
+ls: lista archivos y carpetas
+touch: crea un archivo vacío o actualiza su fecha
+echo: imprime texto en pantalla o lo guarda en un archivo
+cat: muestra el contenido de un archivo
+tac: muestra el contenido de un archivo en orden inverso
+mkdir: crea un directorio
+cp: copia archivos o directorios
+mv: mueve o renombra archivos o carpetas
+rm -rf: borra archivos o carpetas de forma recursiva y forzada
+man: abre el manual de un comando
+apropos: busca comandos relacionados con una palabra clave
+which: muestra la ruta del ejecutable de un comando
+history: muestra el historial de comandos ejecutados
+locate: busca archivos en todo el sistema (requiere base de datos actualizada)
+uname: muestra información del kernel y del sistema
+lsb_release -d: muestra la descripción de la distribución instalada
+alias: crea atajos para comandos (por ejemplo alias ll='ls -la')
+grep: busca texto dentro de archivos o salidas de comandos
+sudo: ejecuta comandos con privilegios de superusuario
+awk: procesa y formatea texto, permitiendo extraer columnas o filtrar datos
